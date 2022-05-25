@@ -6,25 +6,25 @@ All of our graphics/art/brand source material is located in this repository.
 
 ### Large Neg9 Oval B&W Stickers
 
-|                      |                                                                                  |
+| Neg9 Oval B&W        |                                                                                  |
 |----------------------|----------------------------------------------------------------------------------|
-| **Preferred Vendor** | (StickerGuy)[https://stickerguy.com/]                                            |
+| **Preferred Vendor** | [StickerGuy](https://stickerguy.com/)                                            |
 | **Price Sheet**      | https://stickerguy.com/wp-content/uploads/2018/09/stickerguy-pricelist.pdf       |
 | **Type**             | B&W oval                                                                         |
 | **Size**             | 4.25" x 2.75"                                                                    |
-| **Source File**      | (neg9-art/big_stickers/neg9-cat-sticker.pdf)[/big_stickers/neg9-cat-sticker.pdf] |
+| **Source File**      | [neg9-art/big_stickers/neg9-cat-sticker.pdf](/big_stickers/neg9-cat-sticker.pdf) |
 
 
 ### Small Neg9 Circle B&W Stickers
 
-|                                      |                                                                                       |
+| Neg9 Circle B&W                      |                                                                                       |
 |--------------------------------------|---------------------------------------------------------------------------------------|
-| **Preferred Vendor**                 | (SuperLabels)[https://superlabels.com/labels/circles-and-special-shapes/]             |
+| **Preferred Vendor**                 | [SuperLabels](https://superlabels.com/labels/circles-and-special-shapes/)             |
 | **Price Sheet**                      | https://superlabels.com/labels/circles-and-special-shapes/ _1-1/2" Circle -> Pricing_ |
 | **Type**                             | 1-1/2" Circle                                                                         |
 | **Size**                             | 1.5" Circle                                                                           |
-| **Source File** (Var. 1: Neg9.org)   | (neg9-art/small_stickers/final1.png)[/small_stickers/final1.png]                      |
-| **Source File** (Var. 2: Dedication) | (neg9-art/small_stickers/final2.png)[/small_stickers/final2.png]                      |
+| **Source File** (Var. 1: Neg9.org)   | [neg9-art/small_stickers/final1.png](/small_stickers/final1.png)                      |
+| **Source File** (Var. 2: Dedication) | [neg9-art/small_stickers/final2.png](/small_stickers/final2.png)                      |
 
 ## License
 
