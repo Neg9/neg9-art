@@ -26,6 +26,16 @@ All of our graphics/art/brand source material is located in this repository.
 | **Source File** (Var. 1: Neg9.org)   | [neg9-art/small_stickers/final1.png](/small_stickers/final1.png)                      |
 | **Source File** (Var. 2: Dedication) | [neg9-art/small_stickers/final2.png](/small_stickers/final2.png)                      |
 
+### Small Neg9 Die-Cut color (red eye) Sickers
+
+| Neg9 Die-Cut Color            |                                                                                |
+|-------------------------------|--------------------------------------------------------------------------------|
+| **Preferred Vendor**          | [StickerMule](https://www.stickermule.com/products/die-cut-stickers)           |
+| **Small Order (Sample) Link** | [Custom sticker samples](https://www.stickermule.com/products/sticker-samples) |
+| **Type**                      | Custom Die-Cut                                                                 |
+| **Size**                      | 2" x 1.48"                                                                     |
+| **Source File**               | [neg9-art/flag-black.svg](/flag-black.svg)                                     |
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
